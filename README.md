@@ -4,7 +4,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/keyWorlds/TheLostMagic.svg)]()
 [![GitHub stars](https://img.shields.io/github/stars/keyWorlds/TheLostMagic.svg)]()
 [![GitHub forks](https://img.shields.io/github/forks/keyWorlds/TheLostMagic.svg)](https://github.com/keyWorlds/TheLostMagic/network)
-[![Build Status](https://travis-ci.org/keyWorlds/TheLostMagic.svg?branch=master)](https://travis-ci.org/keyWorlds/TheLostMagic)
 
 
 -----
