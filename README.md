@@ -1,5 +1,4 @@
 # TheLostMagic
-[![Build status](https://ci.appveyor.com/api/projects/status/a70f0on00plxfwai/branch/master?svg=true)](https://ci.appveyor.com/project/KamiKeys/thelostmagic/branch/master) 
 [![GitHub release](https://img.shields.io/github/release/keyWorlds/TheLostMagic.svg)]()
 [![GitHub last commit](https://img.shields.io/github/last-commit/keyWorlds/TheLostMagic.svg)]()
 [![GitHub issues](https://img.shields.io/github/issues/keyWorlds/TheLostMagic.svg)]()
